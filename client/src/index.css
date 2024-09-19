@@ -1,0 +1,41 @@
+@font-face {
+    font-family: "Atkinson";
+    src: url("/public/fonts/atkinson.ttf");
+}
+
+@font-face {
+    font-family: "JetBrains Mono";
+    src: url("/public/fonts/jetbrains.ttf");
+}
+
+@font-face {
+    font-family: "Minecraftia";
+    src: url("/public/fonts/minecraftia.ttf");
+}
+
+* {
+    scroll-behavior: smooth !important;
+}
+
+:root {
+    --primary-colour: rgb(16, 16, 20);
+    --blurple: rgb(68, 112, 255);
+}
+
+body {
+    margin: 0;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+    background-color: rgb(5, 5, 12);
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: rgb(230, 230, 230);
+}

@@ -1,0 +1,49 @@
+.topSection {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+
+    width: 100%;
+    height: max(350px, calc(100vh - 80px));
+
+    color: white;
+}
+
+.coffee {
+    height: 150px;
+}
+
+.title {
+    margin: 0 15px;
+    line-height: 0.9;
+
+    font-family: "Atkinson";
+    font-size: 6rem;
+}
+
+.subtitle {
+    margin-bottom: 130px;
+
+    color: whitesmoke;
+    font-family: "Atkinson";
+    font-size: 1.5rem;
+    font-style: italic;
+}
+
+@media (max-width: 670px) {
+    .title {
+        font-size: 4rem;
+    }
+
+    .subtitle {
+        font-size: 1rem;
+    }
+}
+
+@media (max-height: 550px) {
+    .subtitle {
+        margin-bottom: 50px;
+    }
+}
