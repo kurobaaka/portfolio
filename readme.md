@@ -1,6 +1,6 @@
-# <img src="/client/public/img/twigwhite.png" alt="🦌" height="32"> WintrCat
+# <img src="/client/public/img/twigwhite.png" alt="🦌" height="32"> Waidelos
 
-Hello! My name's Wilson, and I'm an 18 year old software developer from the UK!
+Hello! My name's Waidelos, and I'm an 18 year old software developer from the UK!
 <br><br>
 📑 [Portfolio] | 🎥 [YouTube](https://www.youtube.com/@waideloss)
 
