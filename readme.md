@@ -6,7 +6,7 @@ Hello! My name's Wilson, and I'm an 18 year old software developer from the UK!
 
 ### A bit about me
 - I produce devlog videos for some of the things I build
-- I like to play a game of [Chess](https://www.chess.com/member/wintrcat) now and then
+- I like to play a game of [Chess](https://www.chess.com/member/kurobaaka) now and then
 - I want to learn more about AI and machine learning...
 
 <br>
