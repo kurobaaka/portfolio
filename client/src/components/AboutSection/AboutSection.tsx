@@ -29,7 +29,7 @@ function AboutSection() {
 
             <div className={profileStyles.description}>
                 <span>
-                    Hello! My name is Wilson, and I'm a{age == 18 ? "n" : ""} {age} year old software developer
+                    Hello! My name is Waidelos, and I'm a{age == 18 ? "n" : ""} {age} year old software developer
                     from the UK. I love to make websites among other silly things, and
                     have been using languages like TypeScript and Python to do that for
                     the last 4 or so years. Outside of coding, I produce devlog videos
